@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Lock",
+      "value": "Crypto"
+    },
+    {
+      "trait_type": "Background color",
+      "value": "Blue"
+    }
+  ],
+  "description": "The world's most adorable and sensitive pup.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPxj1unttbvCdeds3ZL9YEqkqostF6k8k9jpjbqsingfN",
+  "name": "Ramses"
+}
